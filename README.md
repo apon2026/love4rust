@@ -1,7 +1,7 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./docs/love4rust.svg">
-  <img alt="crates.io logo" src="./docs/readme-logo.png" width="200">
+  <img alt="I Love Rust Logo" src="./docs/love4rust.svg" width="200">
 </picture>
 </div>
 
