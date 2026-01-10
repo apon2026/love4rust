@@ -1,6 +1,7 @@
 <div align="center">
 <picture>
-  <h1>Love For Rust</h1>
+  <source media="(prefers-color-scheme: dark)" srcset="./docs/love4rust.svg">
+  <img alt="crates.io logo" src="./docs/readme-logo.png" width="200">
 </picture>
 </div>
 
